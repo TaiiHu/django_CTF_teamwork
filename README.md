@@ -24,3 +24,9 @@ todo:
     运行 python manage.py makemigrations 为模型的改变生成迁移文件。
     运行 python manage.py migrate 来应用数据库迁移。
 
+---
+## python virtualenv
++ ``pip3 install virtualenv``
+    1. ``virtual envname``
+    2. ``source ./envname/bin/activate``
+    3. ``deactivate``
